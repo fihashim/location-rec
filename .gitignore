@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+project-plan.txt
 # C extensions
 *.so
 
